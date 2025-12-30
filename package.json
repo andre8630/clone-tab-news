@@ -1,0 +1,25 @@
+{
+  "name": "clone-tab-news",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/andre8630/clone-tab-news#readme",
+  "bugs": {
+    "url": "https://github.com/andre8630/clone-tab-news/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre8630/clone-tab-news.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
